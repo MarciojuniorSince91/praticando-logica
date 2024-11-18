@@ -1,3 +1,6 @@
+// todos os projetos de JavaScript vieram vazios e foram programados com o conhecimento durante o curso.
+// neste projeto os arquivos de CSS e HTML foram cedidos pela escola alura.com
+
 # 👋 olá! bem vindo ao meu Github profile.
 ## me chamo Márcio ou tambem de "Junior"!
 
